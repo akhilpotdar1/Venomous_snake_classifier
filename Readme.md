@@ -9,4 +9,4 @@ Also approach all snakes at your own peril :P
 P.S.: This tool will not classify whether the image has a snake or not, hence a photo of yourself too will be classified. :P
 
 
-You can access this at https://mybinder.org/v2/gh/akhilpotdar1/Venomous_snake_classifier/master?urlpath=%2Fvoila%2Frender%2Fname.ipynb
+You can access this at https://mybinder.org/v2/gh/akhilpotdar1/Venomous_snake_classifier/master?urlpath=%2Fvoila%2Frender%2FVSnake_classifier.ipynb.ipynb
