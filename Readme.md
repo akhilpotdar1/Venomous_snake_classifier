@@ -11,4 +11,4 @@ P.S.: This tool will not classify whether the image has a snake or not, hence a 
 
 You can access this at https://mybinder.org/v2/gh/akhilpotdar1/Venomous_snake_classifier/master?urlpath=%2Fvoila%2Frender%2FVSnake_classifier.ipynb
 
-This model is maded using resnet18 pre-trained network. Fine-tuning was performed using fastai. The data set is created using images from bing search. This application is inspired from the bear classifier seen in the fastai book chapter 2 (https://github.com/fastai/fastbook/blob/master/02_production.ipynb) 
+This model is made using resnet18 pre-trained network. Fine-tuning was performed using fastai. The data set is created using images from bing search. This application is inspired from the bear classifier seen in the fastai book chapter 2 (https://github.com/fastai/fastbook/blob/master/02_production.ipynb) 
