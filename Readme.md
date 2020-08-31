@@ -10,3 +10,5 @@ P.S.: This tool will not classify whether the image has a snake or not, hence a 
 
 
 You can access this at https://mybinder.org/v2/gh/akhilpotdar1/Venomous_snake_classifier/master?urlpath=%2Fvoila%2Frender%2FVSnake_classifier.ipynb.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akhilpotdar1/Venomous_snake_classifier/master?urlpath=%2Fvoila%2Frender%2FVSnake_classifier.ipynb.ipynb)
